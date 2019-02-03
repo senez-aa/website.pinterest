@@ -1,0 +1,308 @@
+body{
+  background-color:#e7edf3;
+}
+
+
+der{
+  width: 100%;
+  height: auto;
+  background-color: #e7edf3;
+}
+.texte{
+  display:block;
+  right:0px;
+  top:5px;
+  font-size: 30px;
+  line-height: 1.6em;
+  color: rgb(28, 28, 28);
+  float:right;
+  padding-top:70px;
+  padding-right:10px;
+  text-align: center;
+}
+.sorcial ul li{
+  text-decoration:none;
+  text-decoration-line: none;
+  color:black;
+  display:inline-block;
+  font-size:30px;
+  padding-right:15px;
+}
+a{
+  text-decoration:none;
+  color:black;
+}
+.sorcial ul li {
+  border:1px solid #868282;
+}
+.sorcial ul li a:hover{
+  background-color:black;
+  color:white;
+}
+.logo{
+  width:30%;
+}
+.sorcial{
+  width:30%;
+  float:right;
+}
+.logo, .sorcial{
+  margin-top: 4%;
+  width: 40%;
+  display: inline-block;
+  height: auto;
+}
+.th-description{
+  width: 100%;
+  height: auto;
+}
+.th-description h1{
+  font-size:35px;
+  text-align:center;
+
+}
+.the_description {
+
+  width: 90%;
+  height: auto;
+  left: 6%;
+  background-color: black;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 30px;
+  position: relative;
+}
+.the_description:hover{
+ background-color:tomato;
+ color:white;
+ font-family:Pristina;
+ font-size:30px;
+}
+.th-description h1:hover{
+  color:tomato;
+  font-family:Pristina;
+}
+.th_linkstags{
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: tomato;
+}
+.th_descriptiontags ul li{
+  position:relative;
+  text-decoration:none;
+  text-decoration-line:none;
+  display:inline-block;
+  text-align:center;
+}
+.th_descriptiontags ul li{
+  margin-left:40px;
+  font-size:30px;
+  font-family:'Lato', arial;
+  color:white
+}
+.th_descriptiontags ul li a:hover{
+  color:white;
+  font-family:Pristina;
+}
+.shz1{
+    margin-left:13%;
+    width:30%;
+    height: 600px;
+    background-color:#fff000;
+    display:inline-block;
+
+}
+.shz1{
+  margin:20px;
+  margin-left:13%;
+  width:30%;
+  height: 600px;
+  background-color:#fff000;
+  display:inline-block;
+}
+.webnext{
+  position:relative;
+  width:100%;
+  height: 100px;
+  background-color:white;
+}
+.next{
+  position:absolute;
+  margin-top:40px;
+  margin-left:48%;
+  width:20%;
+  height: 50px;
+  font-size:30px;
+  font-family:serif;
+}
+.next a:hover{
+  color:green;
+}
+.th_descriptiontags{
+  margin-left: 40px;
+  width: 90%;
+  height: auto;
+  left: %;
+  position:relative;
+}
+.linkslogo{
+  width:100%;
+  height: auto;
+  position: relative;
+}
+.div1{
+  margin-left: 25%;
+  width:50%;
+  height:600px;
+  background-color:#c02127 ;
+  color:white;
+}
+.div2{
+  margin-left: 25%;
+  width:50%;
+  height:600px;
+  background-color:#515dcf;
+  color:white;
+}
+.div3{
+  margin-left: 25%;
+  width:50%;
+  height:600px;
+  background-color:#990000;
+}
+.div1 h1, .div2 h1, .div3 h1{
+  text-align:center;
+}
+.forit{
+  font-size:50px;
+  color:black;
+}
+.div_list h2{
+  text-align:center;
+  font-size:25px;
+}
+.div_list h2:hover{
+  color:tomato;
+  font-size:30px;
+}
+.pntrst_dv1{
+  position:absolute;
+  width:40%;
+  height: 350px;
+  background-color:green;
+  margin-left:4%;
+  margin-top:8%;
+}
+.pntrst{
+  position:absolute;
+  width:50%;
+  height: 200px;
+  background-color:blue;
+  margin-left:23%;
+  margin-top:13%;
+}
+.instgrm_dv2{
+  position:absolute;
+  width:40%;
+  height: 350px;
+  background-color:green;
+  margin-left:4%;
+  margin-top:8%;
+}
+.instgrm{
+  position:absolute;
+  width:50%;
+  height: 200px;
+  background-color:blue;
+  margin-left:23%;
+  margin-top:13%;
+}
+.ytb_dv3{
+  position:absolute;
+  width:40%;
+  height: 350px;
+  background-color:green;
+  margin-left:4%;
+  margin-top:8%;
+}
+.ytb{
+  position:absolute;
+  width:50%;
+  height: 200px;
+  background-color:blue;
+  margin-left:23%;
+  margin-top:13%;
+}
+.instgrm_dv2:hover{
+  position:absolute;
+  width:40%;
+  height: 350px;
+  background-color:#cc3399;
+  margin-left:4%;
+  margin-top:8%;
+    color:white;
+}
+.instgrm:hover{
+  position:absolute;
+  width:50%;
+  height: 200px;
+  background-color:#ff6633;
+  margin-left:23%;
+  margin-top:13%;
+  color:white;
+}
+.div2:hover{
+  margin-left: 25%;
+  width:50%;
+  height:600px;
+  background-color:#993399;
+  color:white;
+}
+.div1:hover{
+  background-color:#cc3333;
+}
+.pntrst_dv1:hover{
+  background-color:#ffcccc;
+  color:white;
+}
+.pntrst:hover{
+  background-color:#333333;
+}
+.pntrst h1:hover{
+  color:white;
+}
+.div3:hover{
+  background-color:#990000;
+}
+.ytb_dv3:hover{
+  background-color:#ffffff;
+}
+.ytb:hover{
+  background-color:#990000;
+}
+.ytb h1:hover{
+  color:white;
+}
+.forit a:hover{
+  font-size:40px;
+  color:white;
+}
+.dvfrthbttm{
+  width:100%;
+  height: 70px;
+  background-color:tomato;
+  position:absolute;
+}
+.cidingdiv{
+  margin-top:30px;
+  margin-left:44%;
+  position:relative;
+  width:12%;
+  background-color:white;
+}
+.cidingdiv:hover{
+  background-color:red;
+  color:white;
+}

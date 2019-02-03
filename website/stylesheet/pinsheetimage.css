@@ -1,0 +1,157 @@
+#header{
+  width: 100%;
+  height: auto;
+  background-color: #e7edf3;
+}
+.texte{
+  display:block;
+  right:0px;
+  top:5px;
+  font-size: 30px;
+  line-height: 1.6em;
+  color: rgb(28, 28, 28);
+  float:right;
+  padding-top:70px;
+  padding-right:10px;
+  text-align: center;
+}
+.sorcial ul li{
+  text-decoration:none;
+  text-decoration-line: none;
+  color:black;
+  display:inline-block;
+  font-size:30px;
+  padding-right:15px;
+}
+a{
+  text-decoration:none;
+  color:black;
+}
+.sorcial ul li {
+  border:1px solid #868282;
+}
+.sorcial ul li a:hover{
+  background-color:black;
+  color:white;
+}
+.logo{
+  width:30%;
+}
+.sorcial{
+  width:30%;
+  float:right;
+}
+.logo, .sorcial{
+  margin-top: 4%;
+  width: 40%;
+  display: inline-block;
+  height: auto;
+}
+.th-description{
+  width: 100%;
+  height: auto;
+}
+.th-description h1{
+  font-size:35px;
+  text-align:center;
+
+}
+.the_description {
+
+  width: 90%;
+  height: auto;
+  left: 6%;
+  background-color: black;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 30px;
+  position: relative;
+}
+.the_description:hover{
+ background-color:tomato;
+ color:white;
+ font-family:Pristina;
+ font-size:30px;
+}
+.th-description h1:hover{
+  color:tomato;
+  font-family:Pristina;
+}
+.th_linkstags{
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: tomato;
+}
+.th_descriptiontags ul li{
+  position:relative;
+  text-decoration:none;
+  text-decoration-line:none;
+  display:inline-block;
+  text-align:center;
+}
+.th_descriptiontags ul li{
+  margin-left:40px;
+  font-size:30px;
+  font-family:'Lato', arial;
+  color:white
+}
+.th_descriptiontags ul li a:hover{
+  color:white;
+  font-family:Pristina;
+}
+
+.webnext{
+  position:relative;
+  width:100%;
+  height: 100px;
+  background-color:white;
+}
+.next{
+  position: absolute;
+  margin-top: auto;
+  margin-left: 48%;
+  width: 20%;
+  height: 50px;
+  font-size: 30px;
+  font-family: serif;
+}
+.next a:hover{
+  color:green;
+}
+.th_descriptiontags{
+  margin-left: 40px;
+  width: 90%;
+  height: auto;
+  left: %;
+  position:relative;
+}
+.linkslogo{
+  width:100%;
+  height: auto;
+  position: relative;
+}
+.row{
+  display:flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  padding-right:4px;
+  padding-left: 4px;
+  padding-bottom: 0px;
+}
+*{
+  box-sizing:border-box;
+}
+.colum{
+  flex: 25%;
+  flex-grow: 1;
+  flex-shrink:1;
+  flex-basis:25%;
+  max-width:25%;
+  padding: 0 4px;
+    padding-top: 0px;
+    padding-right: 4px;
+    padding-bottom: 0px;
+    padding-left: 4px;
+}
